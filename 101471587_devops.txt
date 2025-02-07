@@ -1,1 +1,4 @@
 DevOps is a combination of software development and information technology operations that enables businesses to deliver applications at a faster pace.
+
+Students will learn how to utilize the industry-standard tools, like GitHub, and data formats, eg XML, JSON, YAML, YANG,
+ to drastically reduce IT overhead and remove manual tasks both of a mundance or complex nature.
