@@ -1,2 +1,8 @@
 George Brown College is a college providing post-secondary eduaction for Toronto area.
 
+GBC has three campus:
+1. Casa Loma Campus
+2. St. James Campus
+3. Waterfront Campus
+
+
