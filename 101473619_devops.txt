@@ -19,3 +19,19 @@ Course Number: 2156
 Title: DEVOPS FOR SYSTEM ADMIN
 Credit Hours: 4
 Grade Mode: Normal
+
+Time table:
+Instructor: Pritesh Patel (Primary)
+Wednesday
+01/06/2025 - 04/17/2025
+Type: Class
+04:00 PM - 05:59 PM
+Online (Synchronous) Campus | Online (Synchronous) | Room ONLN
+
+
+Instructor: Pritesh Patel (Primary)
+Monday
+01/06/2025 - 04/17/2025
+Type: Class
+06:00 PM - 07:59 PM
+Online (Synchronous) Campus | Online (Synchronous) | Room ONLN
