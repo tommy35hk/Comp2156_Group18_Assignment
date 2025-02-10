@@ -4,3 +4,9 @@ development and testing, implementation, documentation, and evaluation. SDLC app
 iterative to sequential.
 
 Agile methods like Scrum allow for fast changes with lightweight processes.
+
+A project may include both a project life cycle and an SDLC, each with different tasks. SDLC is not a 
+methodology but a set of phases that methodologies follow. The waterfall model, the oldest SDLC approach, 
+follows a step-by-step process. Other SDLC methods include spiral, agile, rapid prototyping, incremental, 
+and synchronize and stabilize. SDLC consists of structured work phases used by engineers and developers to 
+build systems. In Scrum, a user story goes through all SDLC phases within a two-week sprint.
