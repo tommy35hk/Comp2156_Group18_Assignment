@@ -5,3 +5,6 @@ reliable software updates.
 
 GitHub, an open-source platform, helps programmers store, share, and collaborate on code like a social 
 network.
+
+Version control systems track and manage code changes, while distributed version control lets each user 
+maintain their own repository. 
