@@ -3,6 +3,7 @@
 ## Group Members
 - **Leader:** Tommy Tse  (101471587) - [GitHub](https://github.com/tommy35hk)
 - **Member 2:** Kwan Lee (101483927) - [GitHub](https://github.com/Kwan-G)
+- **Member 3:** Chun Ho Yung (101429430) - [GitHub](https://github.com/chunhoyung)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
