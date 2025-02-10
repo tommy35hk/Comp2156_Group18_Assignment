@@ -6,3 +6,7 @@ including Extensible Markup Language (XML), JavaScript Object Notation (JSON), Y
 and Yet Another Next Generation (YANG), and their value in network automation, along with DevOps tools such as Ansible and Git.
 
 This course is a online base course, all the material deliver online.
+
+Course Outcomes:
+1. utilize Version Control System
+2. monitor code quality and CI/CD pipelines to improve
