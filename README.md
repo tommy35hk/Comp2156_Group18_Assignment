@@ -5,6 +5,7 @@
 - **Member 2:** Kwan Lee (101483927) - [GitHub](https://github.com/Kwan-G)
 - **Member 3:** Chun Ho Yung (101429430) - [GitHub](https://github.com/chunhoyung)
 - **Member 4:** Rocky So (101473619) - [GitHub](https://github.com/rockyhsso)
+- **Member 5:** Tang Cho Kiu (101484893) - [GitHub](https://github.com/Kylin0ck)
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
