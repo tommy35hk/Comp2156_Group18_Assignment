@@ -8,3 +8,6 @@ network.
 
 Version control systems track and manage code changes, while distributed version control lets each user 
 maintain their own repository. 
+
+Additionally, single-page applications run in a browser without needing page reloads, enhancing user 
+experience.
