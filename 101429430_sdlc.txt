@@ -12,3 +12,4 @@ Here’s why learning DevOps is essential in the software development lifecycle:
 6. Enhanced Security and Compliance
 7. Cost Reduction and Resource Optimization
 8. Better User Experience
+9. Career Growth and Market Demand
