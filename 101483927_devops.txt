@@ -2,3 +2,6 @@ DevOps combines software development and IT operations to speed up application d
 reducing redundancies. It fosters collaboration in fast-paced environments, enabling continuous integration,
 where developers frequently save code to a shared repository, and continuous delivery, allowing quick and 
 reliable software updates.
+
+GitHub, an open-source platform, helps programmers store, share, and collaborate on code like a social 
+network.
