@@ -1,3 +1,5 @@
  Importance of learning DevOps in the software development cycle.
  1. enables faster development of new products
  2. easier maintenance of existing deployments.
+ 3. shorten production cycles
+ 4. increase deployment success rate
