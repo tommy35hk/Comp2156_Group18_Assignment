@@ -1,0 +1,8 @@
+To support faster software delivery, automation, and cloud computing, 
+DevOps is becoming an industry standard for many businesses.
+
+There are few advantages for DevOps:
+1. Fasten software development process
+2. Improve team collaboration
+3. Ensure code is always in a releasable state
+4. Improve efficiency nu eliminating repetitive and error-prone manual tasks
