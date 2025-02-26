@@ -1,0 +1,16 @@
+Information about the COMP 3104 DevOps course.
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer
+brings to a workplace environment to increase productivity. Analyze and evaluate various developer
+operation implementations available and implement hands-on work using industry standard toolkit.
+Create solution to complex business problem by adhering to the core responsibilities of DevOps
+Students will learn about data formats and types, including Extensible Markup Language (XML)
+JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next
+Generation (YANG), and their value in network automation, along with DevOps tools such as Ansible
+and Git
+
+Course Content:
+1.Installation and configuration of tools like Jenkins, Docker, and Git.
+2.Setting up cloud-based environments, for instance, creating AWS Ubuntu instances.
+3.Implementing continuous integration and deployment pipelines.
+4.Automating system administration tasks to improve efficiency and consistency.

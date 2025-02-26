@@ -1,0 +1,10 @@
+### Meaning of DevOps ###
+DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. 
+It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.
+
+### COMP2156 - DevOps For System Administration ###
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity. 
+Analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit. Create solution to complex 
+business problem by adhering to the core responsibilities of DevOps Students will learn about data formats and types, including Extensible Markup Language (XML),
+JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next Generation (YANG), and their value in network automation, along with 
+DevOps tools such as Ansible and Git.
