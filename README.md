@@ -9,7 +9,7 @@
 - **Member 6:** Devin Wang (101476490) - [GitHub](https://github.com/Wangd-prog)
 
 ## Project Description
-This repository hosts the group assignment for COMP2156 DevOps course, focusing on
+This repository hosts the group assignment for COMP2156 DevOps course, focusing on 
 collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Setup Instructions
